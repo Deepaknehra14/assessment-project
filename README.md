@@ -4,7 +4,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 The main aim of this project is to provide a user-friendly interface to the users so that they do not face any difficulty while fetching 
-some information about the railways like....
+some information about the railways ....
 
 #End-points integrated:
 1. Fetching the information about the train's route.
